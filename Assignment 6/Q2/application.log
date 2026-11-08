@@ -1,0 +1,10 @@
+2026-11-08 09:00:00 INFO Application started
+2026-11-08 09:01:15 INFO User logged in
+2026-11-08 09:02:30 WARNING Low disk space
+2026-11-08 09:03:45 ERROR Database connection failed
+2026-11-08 09:04:10 INFO User opened dashboard
+2026-11-08 09:05:20 WARNING High memory usage
+2026-11-08 09:06:35 ERROR File not found
+2026-11-08 09:07:50 INFO Application running normally
+2026-11-08 09:08:15 ERROR Network connection lost
+2026-11-08 09:09:30 INFO User logged out
